@@ -11,6 +11,6 @@ public class Main {
         }
         int finalAmount = initialAmount + paid + bonus;
         System.out.println("Итоговая сумма на счете: " + finalAmount);
-        System.out.println("Начисленно бонусов: " + bonus);
+        System.out.println("Начислено бонусов: " + bonus);
     }
 }
